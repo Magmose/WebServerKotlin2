@@ -5,6 +5,6 @@
 Programmet laver automatisk json-filen til members, men den er dog tom fra start.
 Man bliver derfor nød til at lave put request som det første
 
-serveren kører på ´localhost:4712/member´
+serveren kører på `localhost:4712/member`
 
-Eksempel på put ´{"id":0,"name":"test"}´
+Eksempel på put `{"id":0,"name":"test"}`
