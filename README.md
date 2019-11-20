@@ -8,8 +8,8 @@ Man bliver derfor nød til at lave put request som det første
 serveren kører på `localhost:4712`
 
 Kald:  
-liste af members: `/member` 
-en specifik member:  `/member/{id}` 
+Liste af members: `/member`  
+En specifik member:  `/member/{id}`  
 
 
 Eksempel på put body `{"id":0,"name":"test"}`
